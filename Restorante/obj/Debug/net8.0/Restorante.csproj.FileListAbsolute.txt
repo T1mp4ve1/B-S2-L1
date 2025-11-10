@@ -1,0 +1,15 @@
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L1\Restorante\bin\Debug\net8.0\Restorante.exe
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L1\Restorante\bin\Debug\net8.0\Restorante.deps.json
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L1\Restorante\bin\Debug\net8.0\Restorante.runtimeconfig.json
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L1\Restorante\bin\Debug\net8.0\Restorante.dll
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L1\Restorante\bin\Debug\net8.0\Restorante.pdb
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L1\Restorante\obj\Debug\net8.0\Restorante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L1\Restorante\obj\Debug\net8.0\Restorante.AssemblyInfoInputs.cache
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L1\Restorante\obj\Debug\net8.0\Restorante.AssemblyInfo.cs
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L1\Restorante\obj\Debug\net8.0\Restorante.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L1\Restorante\obj\Debug\net8.0\Restorante.sourcelink.json
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L1\Restorante\obj\Debug\net8.0\Restorante.dll
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L1\Restorante\obj\Debug\net8.0\refint\Restorante.dll
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L1\Restorante\obj\Debug\net8.0\Restorante.pdb
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L1\Restorante\obj\Debug\net8.0\Restorante.genruntimeconfig.cache
+C:\Users\Pavel\Desktop\Corsi\S\B-S2-L1\Restorante\obj\Debug\net8.0\ref\Restorante.dll
