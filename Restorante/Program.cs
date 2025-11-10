@@ -57,14 +57,15 @@
                 int choice;
                 input = Console.ReadLine();
 
-
-
-                if (!int.TryParse(input, out choice) || choice != 0 || choice <= menu.Count)
+                if (!int.TryParse(input, out choice))
                 {
                     Console.WriteLine("Devi inserire posizione corretta");
                 }
-                paid.Add(menu[choice - 1]);
-                somm += menu[choice - 1].price;
+                if (choice != 0 && choice <= menu.Count)
+                {
+                    paid.Add(menu[choice - 1]);
+                    somm += menu[choice - 1].price;
+                }
 
                 if (choice == 0)
                 {
