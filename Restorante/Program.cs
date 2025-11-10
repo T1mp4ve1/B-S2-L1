@@ -61,6 +61,15 @@
                 {
                     Console.WriteLine("Devi inserire posizione corretta");
                 }
+
+                if (choice < 0 || choice > menu.Count)
+                {
+                    Console.WriteLine("\n=============WARNING!!!=============\n");
+                    Console.WriteLine($"Devi inserire un numero tra 1 e {menu.Count}");
+                    Console.WriteLine("\n=============WARNING!!!=============\n");
+                    Console.WriteLine("\nPremi un pulsante per continuare");
+                    Console.ReadKey();
+                }
                 if (choice != 0 && choice <= menu.Count)
                 {
                     paid.Add(menu[choice - 1]);

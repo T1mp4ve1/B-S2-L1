@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Restorante")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+524d125ed3975e72869f9b322501118b9a6c7c9c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8f26642f0e224b86407adb99837c4270245fb35")]
 [assembly: System.Reflection.AssemblyProductAttribute("Restorante")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Restorante")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
