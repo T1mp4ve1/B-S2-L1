@@ -74,7 +74,10 @@
 
             } while (!confirm);
             decimal result = somm + 3;
-            Console.WriteLine($"\nDa pagare: € {result}. € {somm} piu € {tax} servizio di tavolo\n");
+            Console.WriteLine("\n============CONTO==============\n");
+            Console.WriteLine($"Da pagare: € {result}\n");
+            Console.WriteLine($"€ {somm} piu € {tax} servizio di tavolo\n");
+            Console.WriteLine("\n============CONTO==============\n");
         }
     }
 }
